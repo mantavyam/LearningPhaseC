@@ -2,7 +2,7 @@
  #include<stdbool.h>            // Importing standard bool values Header Files
  int main()
  {
-    char a = 'C';                   // single character    %c
+    char a = 'C';                                           // single character    %c
     char b[] = "This is an array of characters";            // array of characters %s  
 
     float c = 3.141592;                     // 4 bytes (32 bits of precision) 6 - 7 digits %f
